@@ -1,5 +1,3 @@
-asdas
-asdasndsa
-I all understood
-I'm tryuing do all correctly
-kjgkhjgjhgkjhgkhjgkj
+Полностью меняю текст данного файла
+Изменения вношу в ветку (branch) Fix3
+После чего объединяю данную ветку с основной
